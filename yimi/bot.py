@@ -923,5 +923,6 @@ async def help_command(ctx):
     await ctx.send(embed=embed)
 
 # Cuối cùng, không được đặt trong bất kỳ hàm nào nữa
+import os
 TOKEN = os.getenv("DISCORD_TOKEN")
 
