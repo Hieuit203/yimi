@@ -923,4 +923,4 @@ async def help_command(ctx):
     await ctx.send(embed=embed)
 
 # Cuối cùng, không được đặt trong bất kỳ hàm nào nữa
-bot.run("MTM2NTcxNTcyMzY4NjY0NTg1MQ.G2nTD2.Lfu_eWGKdCD9eUNpWK6JoRfR-XhVuEwTdFSGDw")
+bot.run("MTM2NTcxNTcyMzY4NjY0NTg1MQ.Gp6eW6.A_Y3bvNoe4kUC-ZnWKF-LzPutrZgOi3c5U-Brw")
